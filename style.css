@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    width: 90%;
+    margin: auto
+}
+.job-button{
+    padding: 10px;
+    background: rgb(124, 234, 57);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.table-div{
+    border: 1px solid black;
+    padding: 30px;
+}
+.delete-button{
+    padding: 10px;
+    background: rgb(234, 45, 57);
+    border: none;
+    border-radius: 10px;
+    color: white;   
+}
